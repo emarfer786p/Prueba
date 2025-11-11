@@ -17,4 +17,4 @@ git commit -m "Comentario sobre el commit"
 git push
 ```
 ### Adjuntado una imagen
-![Logo de git](https://victorroblesweb.es/wp-content/uploads/2018/04/git.png)
+<img src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" width="200">
